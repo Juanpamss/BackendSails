@@ -7,6 +7,8 @@
 
 module.exports = {
 
+  datastore: 'mysqlAzure',
+
   attributes: {
 
     nombre: {
